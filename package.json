@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AndreLau11/Hello_Microverse/issues"
   },
-  "homepage": "https://github.com/AndreLau11/Hello_Microverse#readme"
+  "homepage": "https://github.com/AndreLau11/Hello_Microverse#readme",
+  "dependencies": {
+    "linters": "^0.0.5"
+  }
 }
