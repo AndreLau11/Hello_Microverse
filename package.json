@@ -18,5 +18,8 @@
   "homepage": "https://github.com/AndreLau11/Hello_Microverse#readme",
   "dependencies": {
     "linters": "^0.0.5"
+  },
+  "devDependencies": {
+    "hint": "^6.1.9"
   }
 }
