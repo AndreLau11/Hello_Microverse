@@ -2,7 +2,7 @@
 
 # Project Name
 
-> Description the project.
+> This is a Hello Microverse, first test.
 
 
 ## Built With
@@ -31,7 +31,7 @@ To get a local copy up and running follow these simple example steps.
 ### Install
 
 ### Usage
-
+Andre Lau
 ### Run tests
 
 ### Deployment
